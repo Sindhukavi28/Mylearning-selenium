@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test" duration-ms="63" started-at="2022-11-12T18:57:53 IST" finished-at="2022-11-12T18:57:53 IST">
+    <groups>
+    </groups>
+    <test name="openbrowswers" duration-ms="63" started-at="2022-11-12T18:57:53 IST" finished-at="2022-11-12T18:57:53 IST">
+      <class name="testNGpractice.Parametrization">
+        <test-method status="PASS" signature="getdynamicinput(java.lang.String)[pri:0, instance:testNGpractice.Parametrization@694e1548]" name="getdynamicinput" duration-ms="0" started-at="2022-11-12T18:57:53 IST" finished-at="2022-11-12T18:57:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdynamicinput -->
+      </class> <!-- testNGpractice.Parametrization -->
+    </test> <!-- openbrowswers -->
+  </suite> <!-- test -->
+</testng-results>
